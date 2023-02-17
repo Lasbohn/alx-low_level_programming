@@ -1,8 +1,10 @@
 #include <stdio.h>
 /**
  * main - entry point
+ *
  * Reture 0 (success)
  */
+
 int main(void)
 {
 
